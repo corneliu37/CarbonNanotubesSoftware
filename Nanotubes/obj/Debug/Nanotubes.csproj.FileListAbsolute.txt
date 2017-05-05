@@ -1,0 +1,62 @@
+c:\users\784299\documents\visual studio 2013\Projects\Nanotubes\Nanotubes\bin\Debug\Nanotubes.exe.config
+c:\users\784299\documents\visual studio 2013\Projects\Nanotubes\Nanotubes\bin\Debug\Nanotubes.exe
+c:\users\784299\documents\visual studio 2013\Projects\Nanotubes\Nanotubes\bin\Debug\Nanotubes.pdb
+c:\users\784299\documents\visual studio 2013\Projects\Nanotubes\Nanotubes\obj\Debug\MainWindow.baml
+c:\users\784299\documents\visual studio 2013\Projects\Nanotubes\Nanotubes\obj\Debug\MainWindow.g.cs
+c:\users\784299\documents\visual studio 2013\Projects\Nanotubes\Nanotubes\obj\Debug\App.g.cs
+c:\users\784299\documents\visual studio 2013\Projects\Nanotubes\Nanotubes\obj\Debug\Nanotubes_MarkupCompile.cache
+c:\users\784299\documents\visual studio 2013\Projects\Nanotubes\Nanotubes\obj\Debug\Nanotubes.g.resources
+c:\users\784299\documents\visual studio 2013\Projects\Nanotubes\Nanotubes\obj\Debug\Nanotubes.Properties.Resources.resources
+c:\users\784299\documents\visual studio 2013\Projects\Nanotubes\Nanotubes\obj\Debug\Nanotubes.csproj.GenerateResource.Cache
+c:\users\784299\documents\visual studio 2013\Projects\Nanotubes\Nanotubes\obj\Debug\Nanotubes.exe
+c:\users\784299\documents\visual studio 2013\Projects\Nanotubes\Nanotubes\obj\Debug\Nanotubes.pdb
+c:\users\784299\documents\visual studio 2013\Projects\Nanotubes\Nanotubes\obj\Debug\Window1.baml
+c:\users\784299\documents\visual studio 2013\Projects\Nanotubes\Nanotubes\obj\Debug\Window1.g.cs
+C:\Users\784299\Documents\Visual Studio 2013\Projects\Nanotubes\Nanotubes\obj\Debug\Nanotubes.csprojResolveAssemblyReference.cache
+C:\Users\784299\Documents\Visual Studio 2013\Projects\Nanotubessavedfold\Nanotubes\bin\Debug\Nanotubes.exe.config
+C:\Users\784299\Documents\Visual Studio 2013\Projects\Nanotubessavedfold\Nanotubes\obj\Debug\Nanotubes.exe
+C:\Users\784299\Documents\Visual Studio 2013\Projects\Nanotubessavedfold\Nanotubes\obj\Debug\Nanotubes.pdb
+C:\Users\784299\Documents\Visual Studio 2013\Projects\Nanotubesproj\Nanotubessavedfold\Nanotubes\bin\Debug\Nanotubes.exe.config
+C:\Users\784299\Documents\Visual Studio 2013\Projects\Nanotubesproj\Nanotubessavedfold\Nanotubes\obj\Debug\Nanotubes.exe
+C:\Users\784299\Documents\Visual Studio 2013\Projects\Nanotubesproj\Nanotubessavedfold\Nanotubes\obj\Debug\Nanotubes.pdb
+C:\Users\784299\Documents\Visual Studio 2013\Projects\Nanotubesproj\Nanotubessavedfold\Nanotubes\bin\Debug\Nanotubes.exe
+C:\Users\784299\Documents\Visual Studio 2013\Projects\Nanotubesproj\Nanotubessavedfold\Nanotubes\bin\Debug\Nanotubes.pdb
+C:\Users\784299\Documents\Visual Studio 2013\Projects\Nanotubesproj\Nanotubessavedfold\Nanotubes\obj\Debug\MainWindow.baml
+C:\Users\784299\Documents\Visual Studio 2013\Projects\Nanotubesproj\Nanotubessavedfold\Nanotubes\obj\Debug\Window1.baml
+C:\Users\784299\Documents\Visual Studio 2013\Projects\Nanotubesproj\Nanotubessavedfold\Nanotubes\obj\Debug\MainWindow.g.cs
+C:\Users\784299\Documents\Visual Studio 2013\Projects\Nanotubesproj\Nanotubessavedfold\Nanotubes\obj\Debug\Window1.g.cs
+C:\Users\784299\Documents\Visual Studio 2013\Projects\Nanotubesproj\Nanotubessavedfold\Nanotubes\obj\Debug\App.g.cs
+C:\Users\784299\Documents\Visual Studio 2013\Projects\Nanotubesproj\Nanotubessavedfold\Nanotubes\obj\Debug\Nanotubes_MarkupCompile.cache
+C:\Users\784299\Documents\Visual Studio 2013\Projects\Nanotubesproj\Nanotubessavedfold\Nanotubes\obj\Debug\Nanotubes.g.resources
+C:\Users\784299\Documents\Visual Studio 2013\Projects\Nanotubesproj\Nanotubessavedfold\Nanotubes\obj\Debug\Nanotubes.Properties.Resources.resources
+C:\Users\784299\Documents\Visual Studio 2013\Projects\Nanotubesproj\Nanotubessavedfold\Nanotubes\obj\Debug\Nanotubes.csproj.GenerateResource.Cache
+C:\Users\784299\Documents\Visual Studio 2013\Projects\Nanotubesproj\Nanotubessavedfold\Nanotubes\obj\Debug\window2.baml
+C:\Users\784299\Documents\Visual Studio 2013\Projects\Nanotubesproj\Nanotubessavedfold\Nanotubes\obj\Debug\window2.g.cs
+C:\Users\784299\Documents\Visual Studio 2013\Projects\Nanotubesproj\Nanotubessavedfold\Nanotubes\obj\Debug\Nanotubes.csproj.ResolveComReference.cache
+C:\Users\784299\Documents\Visual Studio 2013\Projects\Nanotubesproj\Nanotubessavedfold\Nanotubes\obj\Debug\Nanotubes.csprojResolveAssemblyReference.cache
+C:\Users\784299\Documents\Visual Studio 2013\Projects\Nanotubesproj\Nanotubessavedfold\Nanotubes\obj\Debug\window3.baml
+C:\Users\784299\Documents\Visual Studio 2013\Projects\Nanotubesproj\Nanotubessavedfold\Nanotubes\obj\Debug\window3.g.cs
+C:\Users\784299\Documents\Visual Studio 2013\Projects\Nanotubesproj\Nanotubessavedfold\Nanotubes\obj\Debug\Nanotubes.Form1.resources
+C:\Users\784299\Documents\Visual Studio 2013\Projects\Nanotubesproj\Nanotubessavedfold\Nanotubes\obj\Debug\Interop.MLApp.dll
+C:\Tesco\otherprojects\nanotube\Nanotubes\bin\Debug\Nanotubes.exe.config
+C:\Tesco\otherprojects\nanotube\Nanotubes\obj\Debug\Interop.MLApp.dll
+C:\Tesco\otherprojects\nanotube\Nanotubes\obj\Debug\Nanotubes.csproj.ResolveComReference.cache
+C:\Tesco\otherprojects\nanotube\Nanotubes\obj\Debug\Nanotubes.exe
+C:\Tesco\otherprojects\nanotube\Nanotubes\obj\Debug\Nanotubes.pdb
+C:\Tesco\otherprojects\nanotube\Nanotubes\bin\Debug\Nanotubes.exe
+C:\Tesco\otherprojects\nanotube\Nanotubes\bin\Debug\Nanotubes.pdb
+C:\Tesco\otherprojects\nanotube\Nanotubes\obj\Debug\Nanotubes.csprojResolveAssemblyReference.cache
+C:\Tesco\otherprojects\nanotube\Nanotubes\obj\Debug\MainWindow.baml
+C:\Tesco\otherprojects\nanotube\Nanotubes\obj\Debug\Window1.baml
+C:\Tesco\otherprojects\nanotube\Nanotubes\obj\Debug\window2.baml
+C:\Tesco\otherprojects\nanotube\Nanotubes\obj\Debug\window3.baml
+C:\Tesco\otherprojects\nanotube\Nanotubes\obj\Debug\MainWindow.g.cs
+C:\Tesco\otherprojects\nanotube\Nanotubes\obj\Debug\Window1.g.cs
+C:\Tesco\otherprojects\nanotube\Nanotubes\obj\Debug\window2.g.cs
+C:\Tesco\otherprojects\nanotube\Nanotubes\obj\Debug\window3.g.cs
+C:\Tesco\otherprojects\nanotube\Nanotubes\obj\Debug\App.g.cs
+C:\Tesco\otherprojects\nanotube\Nanotubes\obj\Debug\Nanotubes_MarkupCompile.cache
+C:\Tesco\otherprojects\nanotube\Nanotubes\obj\Debug\Nanotubes.g.resources
+C:\Tesco\otherprojects\nanotube\Nanotubes\obj\Debug\Nanotubes.Form1.resources
+C:\Tesco\otherprojects\nanotube\Nanotubes\obj\Debug\Nanotubes.Properties.Resources.resources
+C:\Tesco\otherprojects\nanotube\Nanotubes\obj\Debug\Nanotubes.csproj.GenerateResource.Cache
