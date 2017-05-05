@@ -6,6 +6,6 @@ galenpalimpsestproject@gmail.com .  It is provided here with no warranty. The li
 
 To move through the calculations, it is needed to press the buttons "Page 1", "Page 2", etc. 
 
-One of the scope of the software would have been to implement in C# finite element and probabilistic finite element simulations 
+One of the scopes of the software would have been to implement in C# finite element and probabilistic finite element simulations 
 in a distributed computing fashion in order to reduce the computational time. However, the "Distributed Connectivity" is not doing really 
 anything only connecting to the local host 127.0.0.1 
