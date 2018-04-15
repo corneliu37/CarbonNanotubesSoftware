@@ -12,3 +12,4 @@ in a distributed computing fashion in order to reduce the computational time. Ho
 anything only connecting to the local host 127.0.0.1
 
 This project has a DOI: 10.5281/zenodo.571809   (https://www.zenodo.org/record/571809#.WQyqxogrJPZ)
+Institute for Innovation in Sustainable Engineering, University of Derby, UK
