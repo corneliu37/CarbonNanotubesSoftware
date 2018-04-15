@@ -9,3 +9,6 @@ To move through the calculations, it is needed to press the buttons "Page 1", "P
 One of the scopes of the software would have been to implement in C# finite element and probabilistic finite element simulations 
 in a distributed computing fashion in order to reduce the computational time. However, the "Distributed Connectivity" is not doing really 
 anything only connecting to the local host 127.0.0.1 
+
+This project has a DOI 10.5281/zenodo.598299 
+(Institute for Innovation in Sustainable Engineering, University of Derby, UK)
